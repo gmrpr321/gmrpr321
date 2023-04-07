@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmrpr321
 - 👀 I’m interested in app/web development
 - 🌱 I’m currently learning kotlin (android studio ) ,python,sql 
-- 💞️ I’m looking to collaborate on any begineer level project , im new to computers and programming
+- 💞️ I’m looking to collaborate on any begineer level project 
 - 📫 How to reach me pradeepsn606@gmail.com
 
 <!---

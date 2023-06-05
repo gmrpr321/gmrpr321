@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gmrpr321
+- 👋 Hi, I’m Pradeep SN
 - 👀 I’m interested in app/web development
-- 🌱 I’m currently learning kotlin (android studio ) ,python,sql 
-- 💞️ I’m looking to collaborate on any begineer level project 
+- 🌱 I’m Proficient in Django,ReactJS,Redux,Rest APIs and mysql. 
+- 💞️ I’m looking to collaborate with exciting projects 
 - 📫 How to reach me pradeepsn606@gmail.com
 
 <!---

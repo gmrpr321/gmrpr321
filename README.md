@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pradeep SN
 - 👀 I’m interested in app/web development
-- 🌱 I’m Proficient in Django,ReactJS,Redux,Rest APIs and mysql. 
-- 💞️ I’m looking to collaborate with exciting projects 
+- 🌱 My Tech Stack is Django,ReactJS,Redux,Rest APIs and mysql. 
 - 📫 How to reach me pradeepsn606@gmail.com
 
 <!---
